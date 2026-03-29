@@ -6,7 +6,7 @@ This repository contains a beginner level project focused on predicting stock pr
 
 ## 🔍 What I Did?
 
-- How to fetch historical stock data using `yfinance`
+- How to fetch historical stock data using `yfinance` (other technologies could also be used)
 - Feature engineering techniques including moving averages, returns, lagged features, and MACD
 - How to scale and transform features for ML
 - Training and comparing models like:
