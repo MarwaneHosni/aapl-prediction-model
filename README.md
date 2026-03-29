@@ -1,6 +1,6 @@
 # 📈 Stock Price Prediction with Machine Learning
 
-This repository contains a beginner-to-intermediate level project focused on predicting stock prices using Python and machine learning. It walks through the full process of downloading historical data, engineering features, training multiple models, and evaluating their performance — all with a focus on making the concepts approachable and practical.
+This repository contains a beginner level project focused on predicting stock prices using Python and machine learning. It walks through the full process of downloading historical data, engineering features, training multiple models, and evaluating their performance — all with a focus on making the concepts approachable and practical.
 
 ---
 
